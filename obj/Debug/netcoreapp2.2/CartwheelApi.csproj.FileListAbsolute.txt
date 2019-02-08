@@ -1,0 +1,14 @@
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.csprojAssemblyReference.cache
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.csproj.CoreCompileInputs.cache
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.RazorAssemblyInfo.cache
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.RazorAssemblyInfo.cs
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.AssemblyInfoInputs.cache
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.AssemblyInfo.cs
+/home/roy/my_workspace/CartwheelApi/bin/Debug/netcoreapp2.2/CartwheelApi.deps.json
+/home/roy/my_workspace/CartwheelApi/bin/Debug/netcoreapp2.2/CartwheelApi.runtimeconfig.json
+/home/roy/my_workspace/CartwheelApi/bin/Debug/netcoreapp2.2/CartwheelApi.runtimeconfig.dev.json
+/home/roy/my_workspace/CartwheelApi/bin/Debug/netcoreapp2.2/CartwheelApi.dll
+/home/roy/my_workspace/CartwheelApi/bin/Debug/netcoreapp2.2/CartwheelApi.pdb
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.RazorTargetAssemblyInfo.cache
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.dll
+/home/roy/my_workspace/CartwheelApi/obj/Debug/netcoreapp2.2/CartwheelApi.pdb
